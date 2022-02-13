@@ -1,0 +1,7 @@
+{
+  "name": "PaymentQRApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
